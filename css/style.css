@@ -463,4 +463,7 @@ html,body{font-family:  "Do Hyeon", sans-serif; color: #333; background-color: #
 .family{margin-top: 10px;}
 
 .f_menu{flex-wrap: wrap;}
+
+ .notice>li{line-height: 180%;}
+
 }
